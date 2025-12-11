@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by [J_mango](https://github.com/mango0421/CAU-AID-Class)
+Developed by [J_mango]
 
 
 
